@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class constructor {
 
-    //method with parameter
+    
    public static int addition(int a,int b){
         int  sum=a+b;
         return sum;
